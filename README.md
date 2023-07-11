@@ -22,7 +22,7 @@ The repository is structured as follows:
 AirlineReviewSentimentAnalysis/
   ├── data/
   │   ├── airline_reviews.csv
-  │   └── ...
+  │   
   ├── src/
   │   ├── web_scraper.py
   │   ├── data_preprocessing.py
